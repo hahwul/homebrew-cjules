@@ -5,8 +5,8 @@
 class Cjules < Formula
   desc "Power-user cli for the jules api, written in crystal"
   homepage "https://github.com/hahwul/cjules"
-  url "https://github.com/hahwul/cjules/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "20bcc66313b8fc11ea26c8511be8aff761803a2ce029b6acce0208bb4fa1c663"
+  url "https://github.com/hahwul/cjules/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "02ccf4be6075396681378180c8255f7038f2e5201ced3c248f7e4b30f3ffae07"
   license "MIT"
 
   depends_on "crystal"
